@@ -11,8 +11,11 @@
     'steve',
     'alex',
     'agent',
-    'minecraft'
-  ];
+    'creativemode',
+    'survivalmode',
+    'creeper',
+    'skeleton',
+    ];
   let word;
   let loc = 0;
   let startTime;
