@@ -6,16 +6,16 @@
     target.textContent = word;
     loc = 0;
   }
-
+  
   const words = [
-    'steve',
-    'alex',
-    'agent',
-    'creativemode',
-    'survivalmode',
-    'creeper',
-    'skeleton',
-    ];
+    'STEVE',
+    'ALEX',
+    'AGENT',
+    'CREATIVEMODE',
+    'SURVIVALMODE',
+    'CREEPER',
+    'SKELETON',
+  ];
   let word;
   let loc = 0;
   let startTime;
